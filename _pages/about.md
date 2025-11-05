@@ -10,6 +10,4 @@ Welcome to my website! I'm Jingqi Liu. I'm a third-year Ph.d. candidate in Econo
 
 My research focuses on development economics and labor economics. My research has been published in Review of Development Economics, Economic Modelling and International Studies of Economics.
 
-[Email]<mailto:liujingqi@163.sufe.edu.cn>
-
 You can find my CV here: [Jingqi's CV](../assets/CV.pdf).
