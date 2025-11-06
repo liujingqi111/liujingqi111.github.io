@@ -13,7 +13,7 @@ I'm **Jingqi Liu**, a fourth-year Ph.D. candidate in Economics at the **School o
 My research interests lie in **development economics** and **labor economics**, with a particular focus on inequality and poverty.  
 My work has appeared in *Review of Development Economics*, *Economic Modelling*, and *International Studies of Economics*.
 
-📧 **Email:** [liujingqi@163.sufe.edu.cn](mailto:liujingqi@163.sufe.edu.cn) | [sufe.ljq@gmail.com](mailto:sufe.ljq@gmail.com)  
+📧 **Email:** [liujingqi@163.sufe.edu.cn](mailto:liujingqi@163.sufe.edu.cn) and [sufe.ljq@gmail.com](mailto:sufe.ljq@gmail.com)  
 
 📄 **CV:** [Curriculum Vitae ](../assets/CV.pdf) (Updated December 2025)
 
