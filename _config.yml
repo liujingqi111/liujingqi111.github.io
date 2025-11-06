@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jingqi Liu(刘景琦)"
 title_separator          : "-"
 name                     : &name "Jingqi Liu"
@@ -26,8 +26,8 @@ author:
   avatar           : "Photo_Jingqi.png"
   name             : "Jingqi Liu(刘景琦)"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "China, Shanghai"
+  bio              : "Ph.d. candidate at Shanghai University of Finance and Economics and a visiting student at Johannes Gutenberg-Universität Mainz "
+  location         : "Shanghai, China"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"liujingqi@163.sufe.edu.cn" 
