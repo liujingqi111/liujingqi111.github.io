@@ -15,5 +15,5 @@ My work has appeared in *Review of Development Economics*, *Economic Modelling*,
 
 📧 **Email:** [liujingqi@163.sufe.edu.cn](mailto:liujingqi@163.sufe.edu.cn) | [sufe.ljq@gmail.com](mailto:sufe.ljq@gmail.com)  
 
-📄 **CV:** [Curriculum Vitae (Updated December 2025)](../assets/CV.pdf)
+📄 **CV:** [Curriculum Vitae ](../assets/CV.pdf) (Updated December 2025)
 
