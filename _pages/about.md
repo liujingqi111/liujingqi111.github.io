@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I'm Jingqi Liu. I'm a fourth-year Ph.d. candidate in Economics in School of Public Administration and Policy at Shanghai University of Finance and Economics and a visiting student at Johannes Gutenberg-Universität Mainz during 2025-2026. 
 
-My research focuses on development economics and labor economics. My research has been published in Review of Development Economics, Economic Modelling and International Studies of Economics.
+Welcome to my website!  
+I'm **Jingqi Liu**, a fourth-year Ph.D. candidate in Economics at the **School of Public Administration and Policy, Shanghai University of Finance and Economics (SUFE)**, and currently a **visiting doctoral student** at **Johannes Gutenberg University Mainz** (2025–2026).
 
-[Email]: <mailto:liujingqi@163.sufe.edu.cn> or <mailto:sufe.ljq@gmail.com>
+My research interests lie in **development economics** and **labor economics**, with a particular focus on inequality, poverty, and regional development.  
+My work has appeared in *Review of Development Economics*, *Economic Modelling*, and *International Studies of Economics*.
 
+📧 **Email:** [liujingqi@163.sufe.edu.cn](mailto:liujingqi@163.sufe.edu.cn) | [sufe.ljq@gmail.com](mailto:sufe.ljq@gmail.com)  
 
-You can find my CV here: [Jingqi's CV](../assets/CV.pdf).
+📄 **CV:** [Download here](../assets/CV.pdf)
