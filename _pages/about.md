@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "| Home page"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my website!  
-I'm **Jingqi Liu**, a fourth-year Ph.D. candidate in Economics at the **School of Public Administration and Policy, Shanghai University of Finance and Economics (SUFE)**, and currently a **visiting doctoral student** at **Johannes Gutenberg University Mainz** (2025–2026).
+I'm **Jingqi Liu**, a fourth-year Ph.D. candidate in Economics at **Shanghai University of Finance and Economics (SUFE)**, and currently a **visiting doctoral student** at **Johannes Gutenberg University Mainz** (2025–2026).
 
 My research interests lie in **Development Economics** and **Labor Economics**, with a particular focus on **Inequality** and **Poverty**.  
 
