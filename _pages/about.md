@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my website!  
 I'm **Jingqi Liu**, a fourth-year Ph.D. candidate in Economics at the **School of Public Administration and Policy, Shanghai University of Finance and Economics (SUFE)**, and currently a **visiting doctoral student** at **Johannes Gutenberg University Mainz** (2025–2026).
 
-My research interests lie in **development economics** and **labor economics**, with a particular focus on inequality and poverty.  
+My research interests lie in **Development Economics** and **Labor Economics**, with a particular focus on **Inequality** and **Poverty**.  
 
 My work was published in *Review of Development Economics*, *Economic Modelling*, and *International Studies of Economics*.
 
